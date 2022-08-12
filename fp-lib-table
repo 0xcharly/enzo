@@ -1,5 +1,7 @@
 (fp_lib_table
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/../keyboard-libraries/footprints")(options "")(descr ""))
   (lib (name "local-libraries")(type "KiCad")(uri "${KIPRJMOD}/../local-libraries")(options "")(descr ""))
-  (lib (name "Library")(type "KiCad")(uri "/Users/delay/Library/Mobile Documents/com~apple~CloudDocs/KiCad/Library")(options "")(descr ""))
+  (lib (name "delay")(type "KiCad")(uri "/Users/delay/Library/Mobile Documents/com~apple~CloudDocs/KiCad/Library/delay")(options "")(descr ""))
+  (lib (name "JST_ZH")(type "KiCad")(uri "/Users/delay/Library/Mobile Documents/com~apple~CloudDocs/KiCad/Library/JST_ZH")(options "")(descr ""))
+  (lib (name "Button_Switch_Keyboard")(type "KiCad")(uri "/Users/delay/Library/Mobile Documents/com~apple~CloudDocs/KiCad/Library/Button_Switch_Keyboard.pretty")(options "")(descr ""))
 )
